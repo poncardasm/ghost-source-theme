@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(gulp build:*)",
+      "Bash(yarn build:*)",
+      "Bash(npx gulp build)",
+      "Bash(TZ='Europe/Helsinki' date:*)"
     ],
     "deny": [],
     "ask": []
