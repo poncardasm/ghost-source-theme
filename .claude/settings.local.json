@@ -6,7 +6,8 @@
       "Bash(gulp build:*)",
       "Bash(yarn build:*)",
       "Bash(npx gulp build)",
-      "Bash(TZ='Europe/Helsinki' date:*)"
+      "Bash(TZ='Europe/Helsinki' date:*)",
+      "Bash(yarn zip:*)"
     ],
     "deny": [],
     "ask": []
